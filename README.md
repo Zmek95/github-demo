@@ -1,2 +1,2 @@
 # github-demo
-Repository for git-mastery course
+Repository for git-complete course
